@@ -16,3 +16,8 @@ const output = `I like the song ${song}. I gave it a score of ${
 }%.`;
 console.log (output);
 
+const newline = `One day you finally knew
+what you had to do, and began,`;
+console.log(newline);
+
+// ``also know as template literals will let you write strings that span multiple lines
